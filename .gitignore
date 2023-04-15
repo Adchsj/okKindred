@@ -57,3 +57,4 @@ target/
 
 #okKindred specific
 secrets.py
+# Django stuff:
